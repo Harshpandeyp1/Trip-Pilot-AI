@@ -1,0 +1,72 @@
+[
+  {
+    "id": "tokyo",
+    "name": "Tokyo",
+    "country": "Japan",
+    "currency": "JPY",
+    "timezone": "Asia/Tokyo",
+    "description": "A bustling metropolis combining ultra-modern skyscrapers with historic temples.",
+    "lat": 35.6762,
+    "lng": 139.6503
+  },
+  {
+    "id": "paris",
+    "name": "Paris",
+    "country": "France",
+    "currency": "EUR",
+    "timezone": "Europe/Paris",
+    "description": "The global center for art, fashion, gastronomy, and culture with famous landmarks.",
+    "lat": 48.8566,
+    "lng": 2.3522
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "country": "Italy",
+    "currency": "EUR",
+    "timezone": "Europe/Rome",
+    "description": "A potent blend of haunting ruins, awe-inspiring art, and vibrant street life.",
+    "lat": 41.9028,
+    "lng": 12.4964
+  },
+  {
+    "id": "london",
+    "name": "London",
+    "country": "United Kingdom",
+    "currency": "GBP",
+    "timezone": "Europe/London",
+    "description": "A 21st-century city with history stretching back to Roman times, home to Big Ben.",
+    "lat": 51.5074,
+    "lng": -0.1278
+  },
+  {
+    "id": "new_york",
+    "name": "New York",
+    "country": "United States",
+    "currency": "USD",
+    "timezone": "America/New_York",
+    "description": "The cultural, financial, and media capital of the world, featuring Times Square.",
+    "lat": 40.7128,
+    "lng": -74.0060
+  },
+  {
+    "id": "bali",
+    "name": "Bali",
+    "country": "Indonesia",
+    "currency": "IDR",
+    "timezone": "Asia/Makassar",
+    "description": "A tropical paradise famed for its forested volcanic mountains, beaches, and coral reefs.",
+    "lat": -8.4095,
+    "lng": 115.1889
+  },
+  {
+    "id": "sydney",
+    "name": "Sydney",
+    "country": "Australia",
+    "currency": "AUD",
+    "timezone": "Australia/Sydney",
+    "description": "Best known for its Sydney Opera House, Harbour Bridge, and sparkling beaches.",
+    "lat": -33.8688,
+    "lng": 151.2093
+  }
+]

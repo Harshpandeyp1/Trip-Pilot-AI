@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Node/React
+node_modules/
+dist/
+dist-ssr/
+*.local
+.eslintcache
+.vite-inspect
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project local config
+.env
+.env*.local
+backend/logs/
+*.pdf
+*.md.tmp

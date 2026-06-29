@@ -1,0 +1,252 @@
+[
+  {
+    "id": "r_tok_1",
+    "city_id": "tokyo",
+    "name": "Ichiran Ramen Shinjuku",
+    "cuisine": "Local",
+    "price_level": "Budget",
+    "rating": 4.5,
+    "specialty": "Tonkotsu Ramen",
+    "description": "Famed chain serving classic Hakata-style pork-broth ramen in individual dining booths."
+  },
+  {
+    "id": "r_tok_2",
+    "city_id": "tokyo",
+    "name": "Sukiyabashi Jiro",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.9,
+    "specialty": "Omakase Sushi",
+    "description": "The world-famous 3-star Michelin sushi establishment helmed by master chef Jiro Ono."
+  },
+  {
+    "id": "r_tok_3",
+    "city_id": "tokyo",
+    "name": "Tsunahachi Tempura",
+    "cuisine": "Local",
+    "price_level": "Mid-Range",
+    "rating": 4.4,
+    "specialty": "Assorted Tempura",
+    "description": "Serving crispy, traditional sesame-oil tempura since 1924 in central Shinjuku."
+  },
+  {
+    "id": "r_tok_4",
+    "city_id": "tokyo",
+    "name": "T's Tantan Tokyo Station",
+    "cuisine": "Vegetarian",
+    "price_level": "Budget",
+    "rating": 4.6,
+    "specialty": "Vegan Ramen & Gyoza",
+    "description": "Incredibly popular plant-based ramen restaurant located inside the gates of Tokyo Station."
+  },
+  {
+    "id": "r_par_1",
+    "city_id": "paris",
+    "name": "L'As du Fallafel",
+    "cuisine": "Vegetarian",
+    "price_level": "Budget",
+    "rating": 4.7,
+    "specialty": "Falafel Pita Special",
+    "description": "Renowned counter-serve spot in the Jewish Quarter, legendary for packed falafel sandwiches."
+  },
+  {
+    "id": "r_par_2",
+    "city_id": "paris",
+    "name": "Le Jules Verne",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.6,
+    "specialty": "Modern French Tasting Menu",
+    "description": "A 1-star Michelin gastronomic restaurant located on the second floor of the Eiffel Tower."
+  },
+  {
+    "id": "r_par_3",
+    "city_id": "paris",
+    "name": "Bouillon Chartier",
+    "cuisine": "Local",
+    "price_level": "Budget",
+    "rating": 4.2,
+    "specialty": "Confit de Canard",
+    "description": "A historic, bustling grand bouillon serving traditional, cheap French fare in a beautiful Art Nouveau hall."
+  },
+  {
+    "id": "r_par_4",
+    "city_id": "paris",
+    "name": "Cafe de Flore",
+    "cuisine": "Casual",
+    "price_level": "Mid-Range",
+    "rating": 4.3,
+    "specialty": "Croque Monsieur & Espresso",
+    "description": "One of the oldest and most prestigious coffeehouses in Paris, famous for its historic intellectual clientele."
+  },
+  {
+    "id": "r_rom_1",
+    "city_id": "rome",
+    "name": "Pizzeria Da Remo",
+    "cuisine": "Local",
+    "price_level": "Budget",
+    "rating": 4.5,
+    "specialty": "Roman Thin Crust Pizza",
+    "description": "An authentic, loud, and classic Roman pizzeria in Testaccio, serving wood-fired thin-crust pizza."
+  },
+  {
+    "id": "r_rom_2",
+    "city_id": "rome",
+    "name": "La Pergola",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.9,
+    "specialty": "Fagottelli La Pergola",
+    "description": "Rome's only 3-star Michelin restaurant, offering panoramic city views and legendary gourmet creations."
+  },
+  {
+    "id": "r_rom_3",
+    "city_id": "rome",
+    "name": "Trattoria da Enzo al 29",
+    "cuisine": "Local",
+    "price_level": "Mid-Range",
+    "rating": 4.6,
+    "specialty": "Cacio e Pepe & Carbonara",
+    "description": "Tiny, cozy trattoria in Trastevere serving legendary traditional Roman pasta dishes."
+  },
+  {
+    "id": "r_rom_4",
+    "city_id": "rome",
+    "name": "Flower Burger Rome",
+    "cuisine": "Vegetarian",
+    "price_level": "Budget",
+    "rating": 4.4,
+    "specialty": "Colorful Vegan Burgers",
+    "description": "Fun, modern plant-based burger joint famous for its colorful buns made from natural extracts."
+  },
+  {
+    "id": "r_lon_1",
+    "city_id": "london",
+    "name": "Dishoom Covent Garden",
+    "cuisine": "Casual",
+    "price_level": "Mid-Range",
+    "rating": 4.7,
+    "specialty": "Chicken Ruby & Black Daal",
+    "description": "Stunning café serving Bombay comfort food, famous for long queues and incredible breakfast naan rolls."
+  },
+  {
+    "id": "r_lon_2",
+    "city_id": "london",
+    "name": "The Ledbury",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.8,
+    "specialty": "British Gastronomy tasting menu",
+    "description": "A 2-star Michelin restaurant in Notting Hill, championing British wild produce."
+  },
+  {
+    "id": "r_lon_3",
+    "city_id": "london",
+    "name": "Poppies Fish & Chips Spitalfields",
+    "cuisine": "Local",
+    "price_level": "Budget",
+    "rating": 4.4,
+    "specialty": "Haddock & Chips with Mushy Peas",
+    "description": "Award-winning fish and chips shop with retro 1950s decor and freshly caught local fish."
+  },
+  {
+    "id": "r_ny_1",
+    "city_id": "new_york",
+    "name": "Joe's Pizza Greenwich Village",
+    "cuisine": "Casual",
+    "price_level": "Budget",
+    "rating": 4.7,
+    "specialty": "NY Cheese Slice",
+    "description": "A greenwich village institution serving classic, thin-crust, street-style NYC slices."
+  },
+  {
+    "id": "r_ny_2",
+    "city_id": "new_york",
+    "name": "The Modern",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.6,
+    "specialty": "Contemporary American",
+    "description": "A 2-star Michelin venue inside the Museum of Modern Art, overlooking the sculpture garden."
+  },
+  {
+    "id": "r_ny_3",
+    "city_id": "new_york",
+    "name": "Katz's Delicatessen",
+    "cuisine": "Local",
+    "price_level": "Mid-Range",
+    "rating": 4.5,
+    "specialty": "Pastrami on Rye",
+    "description": "Iconic, bustling Jewish deli in the Lower East Side, curing meats since 1888."
+  },
+  {
+    "id": "r_ny_4",
+    "city_id": "new_york",
+    "name": "Dirt Candy",
+    "cuisine": "Vegetarian",
+    "price_level": "Luxury",
+    "rating": 4.6,
+    "specialty": "Vegetable tasting menu",
+    "description": "An award-winning Michelin-starred vegetarian restaurant on the Lower East Side."
+  },
+  {
+    "id": "r_bal_1",
+    "city_id": "bali",
+    "name": "Naughty Nuri's Ubud",
+    "cuisine": "Casual",
+    "price_level": "Mid-Range",
+    "rating": 4.6,
+    "specialty": "BBQ Pork Ribs & Martinis",
+    "description": "Famous roadside warung style diner known for the best sticky ribs and energetic shaker dances."
+  },
+  {
+    "id": "r_bal_2",
+    "city_id": "bali",
+    "name": "Warung Makan Teges",
+    "cuisine": "Local",
+    "price_level": "Budget",
+    "rating": 4.5,
+    "specialty": "Nasi Campur Bali",
+    "description": "Authentic local spot serving traditional mixed rice with Balinese spiced chicken and pork."
+  },
+  {
+    "id": "r_bal_3",
+    "city_id": "bali",
+    "name": "Locavore Ubud",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.8,
+    "specialty": "Locally Sourced Tasting Menu",
+    "description": "Hyper-local fine dining focusing on sustainable, ingredient-driven modern Indonesian gastronomy."
+  },
+  {
+    "id": "r_syd_1",
+    "city_id": "sydney",
+    "name": "Quay",
+    "cuisine": "Fine Dining",
+    "price_level": "Luxury",
+    "rating": 4.8,
+    "specialty": "The Snow Egg Dessert",
+    "description": "An iconic harbor-front restaurant offering modern Australian tasting menus overlooking the Opera House."
+  },
+  {
+    "id": "r_syd_2",
+    "city_id": "sydney",
+    "name": "Mary's Newtown",
+    "cuisine": "Casual",
+    "price_level": "Budget",
+    "rating": 4.5,
+    "specialty": "Mary's Burger & Fried Chicken",
+    "description": "A gritty, loud, heavy metal bar in Newtown serving some of the best, most satisfying burgers in town."
+  },
+  {
+    "id": "r_syd_3",
+    "city_id": "sydney",
+    "name": "The Fish Market Cafe",
+    "cuisine": "Local",
+    "price_level": "Mid-Range",
+    "rating": 4.3,
+    "specialty": "Fresh Oysters & Grilled Barramundi",
+    "description": "Serving fresh seafood in the bustling Sydney Fish Markets, right on the water."
+  }
+]

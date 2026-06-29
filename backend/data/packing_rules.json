@@ -1,0 +1,86 @@
+{
+  "categories": {
+    "essentials": [
+      "Passport / ID Card",
+      "Flight Tickets / Bookings",
+      "Cash (local currency) & Credit Cards",
+      "Phone & Charger",
+      "Universal Travel Adapter",
+      "Prescription Medications",
+      "Toothbrush & Toiletries",
+      "First-aid basics (Painkillers, Band-aids)"
+    ],
+    "season_specific": {
+      "spring": [
+        "Light jacket or sweater",
+        "Layering t-shirts",
+        "Comfortable walking shoes",
+        "Compact umbrella",
+        "Light scarf"
+      ],
+      "summer": [
+        "Sunscreen (SPF 30+)",
+        "Sunglasses",
+        "Sun hat or cap",
+        "Lightweight, breathable clothes",
+        "Swimwear",
+        "Reusable water bottle"
+      ],
+      "autumn": [
+        "Medium jacket or trench coat",
+        "Warm sweaters / cardigans",
+        "Waterproof boots or shoes",
+        "Umbrella",
+        "Moisturizer / Lip balm"
+      ],
+      "winter": [
+        "Heavy winter coat / Down jacket",
+        "Thermal underwear (tops/bottoms)",
+        "Scarf, gloves, and beanie",
+        "Thick woolen socks",
+        "Lip balm & hand cream"
+      ],
+      "tropical": [
+        "Sunscreen (SPF 50+)",
+        "Insect repellent",
+        "Light clothing (linen/cotton)",
+        "Swimwear",
+        "Sandals / Flip-flops",
+        "Rain poncho (monsoon season)"
+      ]
+    },
+    "activity_specific": {
+      "Sightseeing / Culture": [
+        "Comfortable sneakers / walking shoes",
+        "Modest clothing (covering shoulders/knees for temples)",
+        "Daypack / Shoulder bag",
+        "Notebook / Pen"
+      ],
+      "Adventure / Nature": [
+        "Hiking shoes / Trail runner shoes",
+        "Quick-dry t-shirts & shorts",
+        "Waterproof jacket",
+        "Backpack (20L-30L)",
+        "Microfiber towel",
+        "Insect repellent"
+      ],
+      "Food / Fine Dining": [
+        "Smart casual outfits",
+        "Dress shoes / Flats",
+        "Hand sanitizer"
+      ],
+      "Shopping / City": [
+        "Reusable shopping bags",
+        "Comfortable shoes",
+        "Crossbody bag (anti-theft)"
+      ],
+      "Relaxation / Beach": [
+        "Beach towel",
+        "Dry bag for electronics",
+        "Flip-flops",
+        "Cover-up / Kaftan",
+        "Sunglasses"
+      ]
+    }
+  }
+}

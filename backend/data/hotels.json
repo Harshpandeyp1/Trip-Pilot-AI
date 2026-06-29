@@ -1,0 +1,212 @@
+[
+  {
+    "id": "h_tok_1",
+    "city_id": "tokyo",
+    "name": "Shinjuku Prince Hotel",
+    "category": "Boutique",
+    "price_per_night": 120,
+    "rating": 4.4,
+    "amenities": ["Wi-Fi", "Restaurant", "Metro Connection", "AC"],
+    "description": "Right in the heart of Shinjuku, offering excellent transit access and skyline views."
+  },
+  {
+    "id": "h_tok_2",
+    "city_id": "tokyo",
+    "name": "Capsule Hotel Anshin Oyado",
+    "category": "Budget",
+    "price_per_night": 45,
+    "rating": 4.2,
+    "amenities": ["Wi-Fi", "Spa/Sauna", "Shared Lounge", "AC"],
+    "description": "A luxury capsule experience with private sleeping pods, complimentary amenities, and a hot spring bath."
+  },
+  {
+    "id": "h_tok_3",
+    "city_id": "tokyo",
+    "name": "Park Hyatt Tokyo",
+    "category": "Luxury",
+    "price_per_night": 650,
+    "rating": 4.8,
+    "amenities": ["Wi-Fi", "Infinity Pool", "Sky Lounge", "Spa", "AC", "Gym"],
+    "description": "An iconic 5-star hotel hovering above Shinjuku, famous for luxury service and cinematic views."
+  },
+  {
+    "id": "h_par_1",
+    "city_id": "paris",
+    "name": "Hôtel Regina Louvre",
+    "category": "Luxury",
+    "price_per_night": 320,
+    "rating": 4.6,
+    "amenities": ["Wi-Fi", "Bar", "Room Service", "Eiffel Tower View", "AC"],
+    "description": "Classic Parisian elegance directly opposite the Louvre Museum and Tuileries Gardens."
+  },
+  {
+    "id": "h_par_2",
+    "city_id": "paris",
+    "name": "Generator Hostel Paris",
+    "category": "Budget",
+    "price_per_night": 50,
+    "rating": 4.1,
+    "amenities": ["Wi-Fi", "Rooftop Terrace", "Bar/Café", "AC"],
+    "description": "Chic, social hostel in the 10th Arrondissement, close to Canal Saint-Martin."
+  },
+  {
+    "id": "h_par_3",
+    "city_id": "paris",
+    "name": "Hôtel Caron de Beaumarchais",
+    "category": "Boutique",
+    "price_per_night": 180,
+    "rating": 4.5,
+    "amenities": ["Wi-Fi", "Breakfast in Bed", "Antique Decor", "AC"],
+    "description": "A charming 18th-century style boutique hotel located in the historical Marais district."
+  },
+  {
+    "id": "h_rom_1",
+    "city_id": "rome",
+    "name": "Hotel Artemide",
+    "category": "Boutique",
+    "price_per_night": 160,
+    "rating": 4.7,
+    "amenities": ["Wi-Fi", "Rooftop Bar", "Spa", "Free Minibar", "AC"],
+    "description": "Highly rated boutique lodging on Via Nazionale with stellar service and a rooftop garden."
+  },
+  {
+    "id": "h_rom_2",
+    "city_id": "rome",
+    "name": "The Beehive",
+    "category": "Budget",
+    "price_per_night": 40,
+    "rating": 4.3,
+    "amenities": ["Wi-Fi", "Organic Café", "Cozy Garden", "AC"],
+    "description": "A cozy, clean, and green hostel/guesthouse near Termini Station, focusing on community."
+  },
+  {
+    "id": "h_rom_3",
+    "city_id": "rome",
+    "name": "Hotel de Russie",
+    "category": "Luxury",
+    "price_per_night": 550,
+    "rating": 4.9,
+    "amenities": ["Wi-Fi", "Secret Garden Bar", "Luxury Spa", "Valet Parking", "AC"],
+    "description": "Rome's ultimate luxury retreat located between the Spanish Steps and Piazza del Popolo."
+  },
+  {
+    "id": "h_lon_1",
+    "city_id": "london",
+    "name": "CitizenM Tower of London",
+    "category": "Boutique",
+    "price_per_night": 170,
+    "rating": 4.6,
+    "amenities": ["Wi-Fi", "Rooftop Lounge", "iPad Room Control", "AC"],
+    "description": "Modern smart rooms featuring wall-to-wall windows and incredible views of Tower Bridge."
+  },
+  {
+    "id": "h_lon_2",
+    "city_id": "london",
+    "name": "Astor Museum Hostel",
+    "category": "Budget",
+    "price_per_night": 35,
+    "rating": 4.0,
+    "amenities": ["Wi-Fi", "Shared Kitchen", "Common Room"],
+    "description": "Budget hostel situated directly opposite the British Museum in historic Bloomsbury."
+  },
+  {
+    "id": "h_lon_3",
+    "city_id": "london",
+    "name": "The Savoy",
+    "category": "Luxury",
+    "price_per_night": 600,
+    "rating": 4.8,
+    "amenities": ["Wi-Fi", "Pool", "Butler Service", "Edwardian Decor", "AC", "Gym"],
+    "description": "Legendary luxury hotel on the River Thames, hosting royals and legends for over a century."
+  },
+  {
+    "id": "h_ny_1",
+    "city_id": "new_york",
+    "name": "Pod 39 Hotel",
+    "category": "Budget",
+    "price_per_night": 90,
+    "rating": 4.2,
+    "amenities": ["Wi-Fi", "Rooftop Lounge", "Game Room", "AC"],
+    "description": "Micro-rooms with high-tech designs in Murray Hill, perfect for budget-conscious explorers."
+  },
+  {
+    "id": "h_ny_2",
+    "city_id": "new_york",
+    "name": "The Standard High Line",
+    "category": "Boutique",
+    "price_per_night": 280,
+    "rating": 4.5,
+    "amenities": ["Wi-Fi", "Rooftop Disco", "Bicycle Rental", "Gym", "AC"],
+    "description": "Hovering above the High Line Park in the Meatpacking District, with floor-to-ceiling windows."
+  },
+  {
+    "id": "h_ny_3",
+    "city_id": "new_york",
+    "name": "The Plaza",
+    "category": "Luxury",
+    "price_per_night": 850,
+    "rating": 4.8,
+    "amenities": ["Wi-Fi", "Champagne Bar", "Luxury Butler", "Spa", "AC"],
+    "description": "An emblem of historic New York luxury flanking Central Park South."
+  },
+  {
+    "id": "h_bal_1",
+    "city_id": "bali",
+    "name": "Ubud Tropical Garden",
+    "category": "Budget",
+    "price_per_night": 30,
+    "rating": 4.3,
+    "amenities": ["Wi-Fi", "Pool", "Free Breakfast", "AC"],
+    "description": "Beautiful traditional rooms overlooking rice fields, located in central Ubud."
+  },
+  {
+    "id": "h_bal_2",
+    "city_id": "bali",
+    "name": "Bambu Indah",
+    "category": "Boutique",
+    "price_per_night": 140,
+    "rating": 4.6,
+    "amenities": ["Wi-Fi", "Natural Swimming Pool", "Organic Restaurant", "AC"],
+    "description": "An eco-luxury retreat in Ubud featuring restored antique Javanese teak homes."
+  },
+  {
+    "id": "h_bal_3",
+    "city_id": "bali",
+    "name": "The Edge Bali",
+    "category": "Luxury",
+    "price_per_night": 900,
+    "rating": 4.9,
+    "amenities": ["Wi-Fi", "Glass-bottom Sky Pool", "Private Butler", "Ocean Cliff View", "AC"],
+    "description": "Ultra-luxury villas perched on a 150-meter cliff above the Indian Ocean in Uluwatu."
+  },
+  {
+    "id": "h_syd_1",
+    "city_id": "sydney",
+    "name": "Sydney Harbour YHA",
+    "category": "Budget",
+    "price_per_night": 55,
+    "rating": 4.4,
+    "amenities": ["Wi-Fi", "Rooftop Terrace", "Opera House View", "AC"],
+    "description": "Built above archaeological remains in The Rocks, featuring a rooftop view of the Harbour."
+  },
+  {
+    "id": "h_syd_2",
+    "city_id": "sydney",
+    "name": "Ovolo Woolloomooloo",
+    "category": "Boutique",
+    "price_per_night": 220,
+    "rating": 4.7,
+    "amenities": ["Wi-Fi", "Indoor Pool", "Free Loot Bag", "Gym", "AC"],
+    "description": "A design-forward hotel inside a historic finger wharf, blending heritage and rock-and-roll style."
+  },
+  {
+    "id": "h_syd_3",
+    "city_id": "sydney",
+    "name": "Park Hyatt Sydney",
+    "category": "Luxury",
+    "price_per_night": 750,
+    "rating": 4.9,
+    "amenities": ["Wi-Fi", "Rooftop Pool", "Private Balconies", "Opera House View", "AC", "Spa"],
+    "description": "The pinnacle of Sydney waterfront luxury, situated directly opposite the Opera House."
+  }
+]

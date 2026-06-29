@@ -1,0 +1,58 @@
+{
+  "Japan": {
+    "US": "Visa free (up to 90 days for tourism)",
+    "EU": "Visa free (up to 90 days for tourism)",
+    "IN": "eVisa required (easily applied online, up to 90 days)",
+    "AU": "Visa free (up to 90 days for tourism)",
+    "CA": "Visa free (up to 90 days for tourism)",
+    "other": "Check with nearest Japanese Embassy or Consulate."
+  },
+  "France": {
+    "US": "Visa free (Schengen Zone rules, up to 90 days)",
+    "EU": "Freedom of movement (no visa required)",
+    "IN": "Schengen Visa required (must apply at Embassy/Consulate)",
+    "AU": "Visa free (Schengen Zone rules, up to 90 days)",
+    "CA": "Visa free (Schengen Zone rules, up to 90 days)",
+    "other": "Schengen visa requirements apply for most non-exempt passport holders."
+  },
+  "Italy": {
+    "US": "Visa free (Schengen Zone rules, up to 90 days)",
+    "EU": "Freedom of movement (no visa required)",
+    "IN": "Schengen Visa required (must apply at Embassy/Consulate)",
+    "AU": "Visa free (Schengen Zone rules, up to 90 days)",
+    "CA": "Visa free (Schengen Zone rules, up to 90 days)",
+    "other": "Schengen visa requirements apply."
+  },
+  "United Kingdom": {
+    "US": "Visa free (up to 6 months for tourism)",
+    "EU": "Visa free (up to 6 months for tourism)",
+    "IN": "Standard Visitor Visa required (before travel)",
+    "AU": "Visa free (up to 6 months for tourism)",
+    "CA": "Visa free (up to 6 months for tourism)",
+    "other": "Check UK government visa eligibility website."
+  },
+  "United States": {
+    "US": "Citizen (no visa required)",
+    "EU": "ESTA Visa Waiver required (online authorization)",
+    "IN": "B1/B2 Visitor Visa required (embassy interview required)",
+    "AU": "ESTA Visa Waiver required (online authorization)",
+    "CA": "Visa free (with Canadian Passport, some restrictions)",
+    "other": "US B1/B2 tourist visa required."
+  },
+  "Indonesia": {
+    "US": "Visa on Arrival (VOA) required (30 days, extendable)",
+    "EU": "Visa on Arrival (VOA) required (30 days, extendable)",
+    "IN": "Visa on Arrival (VOA) required (30 days, extendable)",
+    "AU": "Visa on Arrival (VOA) required (30 days, extendable)",
+    "CA": "Visa on Arrival (VOA) required (30 days, extendable)",
+    "other": "Check VOA eligibility lists."
+  },
+  "Australia": {
+    "US": "ETA required (electronic visa applied via App)",
+    "EU": "eVisitor Visa required (online application, free)",
+    "IN": "Visitor Visa (Subclass 600) required (apply online)",
+    "AU": "Citizen (no visa required)",
+    "CA": "ETA required (electronic visa applied via App)",
+    "other": "Online Visitor Visa required."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "tokyo": {
+    "spring": {"temp_c": "15°C - 22°C", "condition": "Mild with cherry blossoms", "precip_chance": "20%"},
+    "summer": {"temp_c": "26°C - 33°C", "condition": "Hot and humid", "precip_chance": "40%"},
+    "autumn": {"temp_c": "16°C - 23°C", "condition": "Cool and pleasant", "precip_chance": "15%"},
+    "winter": {"temp_c": "3°C - 10°C", "condition": "Cold and sunny", "precip_chance": "5%"}
+  },
+  "paris": {
+    "spring": {"temp_c": "10°C - 18°C", "condition": "Mild, occasional showers", "precip_chance": "35%"},
+    "summer": {"temp_c": "20°C - 28°C", "condition": "Warm and sunny", "precip_chance": "20%"},
+    "autumn": {"temp_c": "11°C - 17°C", "condition": "Cool and misty", "precip_chance": "30%"},
+    "winter": {"temp_c": "3°C - 8°C", "condition": "Cold and damp", "precip_chance": "40%"}
+  },
+  "rome": {
+    "spring": {"temp_c": "13°C - 21°C", "condition": "Warm and bright", "precip_chance": "15%"},
+    "summer": {"temp_c": "24°C - 33°C", "condition": "Hot and dry", "precip_chance": "5%"},
+    "autumn": {"temp_c": "15°C - 22°C", "condition": "Pleasant, mild rains", "precip_chance": "25%"},
+    "winter": {"temp_c": "6°C - 13°C", "condition": "Cool and wet", "precip_chance": "35%"}
+  },
+  "london": {
+    "spring": {"temp_c": "8°C - 15°C", "condition": "Cool, changeable skies", "precip_chance": "45%"},
+    "summer": {"temp_c": "18°C - 24°C", "condition": "Mild and pleasant", "precip_chance": "30%"},
+    "autumn": {"temp_c": "10°C - 16°C", "condition": "Chilly and damp", "precip_chance": "40%"},
+    "winter": {"temp_c": "2°C - 8°C", "condition": "Cold and gray", "precip_chance": "50%"}
+  },
+  "new_york": {
+    "spring": {"temp_c": "9°C - 18°C", "condition": "Mild and breezy", "precip_chance": "30%"},
+    "summer": {"temp_c": "22°C - 31°C", "condition": "Hot and humid", "precip_chance": "25%"},
+    "autumn": {"temp_c": "12°C - 20°C", "condition": "Cool with autumn foliage", "precip_chance": "20%"},
+    "winter": {"temp_c": "-2°C - 5°C", "condition": "Freezing, possible snow", "precip_chance": "30%"}
+  },
+  "bali": {
+    "spring": {"temp_c": "26°C - 31°C", "condition": "Tropical, humid", "precip_chance": "30%"},
+    "summer": {"temp_c": "25°C - 30°C", "condition": "Sunny and dry season", "precip_chance": "10%"},
+    "autumn": {"temp_c": "26°C - 31°C", "condition": "Warm and tropical", "precip_chance": "25%"},
+    "winter": {"temp_c": "26°C - 31°C", "condition": "Wet monsoon season", "precip_chance": "60%"}
+  },
+  "sydney": {
+    "spring": {"temp_c": "14°C - 22°C", "condition": "Mild and sunny", "precip_chance": "20%"},
+    "summer": {"temp_c": "19°C - 26°C", "condition": "Warm, perfect beach weather", "precip_chance": "20%"},
+    "autumn": {"temp_c": "15°C - 22°C", "condition": "Cool and pleasant", "precip_chance": "25%"},
+    "winter": {"temp_c": "9°C - 17°C", "condition": "Chilly but sunny", "precip_chance": "15%"}
+  }
+}

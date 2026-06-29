@@ -1,0 +1,34 @@
+[
+  {
+    "mode": "Public",
+    "name": "Metro / Subway / Train",
+    "base_cost_per_day": 8,
+    "cost_per_km": 0.2,
+    "average_speed_kmh": 40,
+    "description": "Fast, cheap, and efficient public transport networks. Best for major cities."
+  },
+  {
+    "mode": "Taxi",
+    "name": "Taxi / Uber / Grab",
+    "base_cost_per_day": 0,
+    "cost_per_km": 2.5,
+    "average_speed_kmh": 30,
+    "description": "Private rides offering maximum convenience directly to your destination."
+  },
+  {
+    "mode": "Rental",
+    "name": "Rental Car / Scooter",
+    "base_cost_per_day": 45,
+    "cost_per_km": 0.1,
+    "average_speed_kmh": 45,
+    "description": "Freedom to explore on your own schedule. Recommended for coastal or rural spots."
+  },
+  {
+    "mode": "Walking",
+    "name": "Walking",
+    "base_cost_per_day": 0,
+    "cost_per_km": 0.0,
+    "average_speed_kmh": 4,
+    "description": "100% free, active, and perfect for exploring compact historic centers."
+  }
+]

@@ -1,0 +1,142 @@
+{
+  "tokyo": {
+    "emergency_contacts": {
+      "police": "110",
+      "fire_ambulance": "119",
+      "medical_helpline": "03-5285-8181 (English)"
+    },
+    "local_customs": [
+      "No tipping: Excellent service is standard, tipping is considered awkward or offensive.",
+      "Escalator etiquette: Stand on the left, let others walk on the right (in Tokyo).",
+      "Quiet on transit: Avoid talking loudly or answering phone calls on trains.",
+      "Trash disposal: Keep your trash with you; public bins are extremely rare.",
+      "Cash is king: Although credit cards are increasingly accepted, keep JPY cash on hand."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Arigatou Gozaimasu"},
+      {"english": "Excuse me / Sorry", "local": "Sumimasen"},
+      {"english": "How much is this?", "local": "Kore wa ikura desu ka?"},
+      {"english": "Water, please", "local": "Mizu o kudasai"}
+    ]
+  },
+  "paris": {
+    "emergency_contacts": {
+      "police": "17 / 112",
+      "fire_ambulance": "18 / 15",
+      "medical_helpline": "3624 (House calls)"
+    },
+    "local_customs": [
+      "Greeting standard: Always start interactions with a polite 'Bonjour' or 'Bonsoir'.",
+      "Table manners: Hands should remain visible on the table, not in your lap.",
+      "Tipping: A 15% service charge is included in bills, but leaving 1-2 Euros for good service is appreciated.",
+      "Metro vigilance: Watch your belongings, pickpocketing is common in tourist spots.",
+      "Pace of dining: Mealtime is considered leisure; don't expect waiters to rush you."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Merci beaucoup"},
+      {"english": "Excuse me / Please", "local": "S'il vous plaît"},
+      {"english": "Do you speak English?", "local": "Parlez-vous anglais?"},
+      {"english": "The bill, please", "local": "L'addition, s'il vous plaît"}
+    ]
+  },
+  "rome": {
+    "emergency_contacts": {
+      "police": "113 / 112",
+      "fire_ambulance": "115 / 118",
+      "medical_helpline": "06-58200612"
+    },
+    "local_customs": [
+      "Dress code: Dress modestly when visiting churches; cover shoulders and knees.",
+      "Coffee ordering: Drink espresso at the bar counter; sitting down at tables costs significantly more.",
+      "Tipping: Not mandatory, but leaving small change (5-10%) is considered polite.",
+      "Water fountains: You can drink from any of the public 'nasoni' water fountains around Rome for free.",
+      "Dinner timing: Locals eat late, typically starting around 8:30 PM or 9:00 PM."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Grazie"},
+      {"english": "Please", "local": "Per favore"},
+      {"english": "Excuse me (to get attention)", "local": "Scusi"},
+      {"english": "Good morning", "local": "Buongiorno"}
+    ]
+  },
+  "london": {
+    "emergency_contacts": {
+      "police": "999 / 101",
+      "fire_ambulance": "999",
+      "medical_helpline": "111"
+    },
+    "local_customs": [
+      "Queueing: Respect queues; cutting in line is considered highly offensive.",
+      "Escalator etiquette: Stand on the right, walk on the left.",
+      "Tipping: 10-12.5% is often added to restaurant bills as service charge. Otherwise, tip 10%.",
+      "Umbrella ready: Keep a small umbrella handy; weather changes quickly.",
+      "Mind the Gap: Pay attention to the space between the train door and platform on the Tube."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Cheers / Thank you"},
+      {"english": "Excuse me", "local": "Pardon / Excuse me"},
+      {"english": "How much is this?", "local": "How much is this?"},
+      {"english": "Where is the bathroom?", "local": "Where is the loo / toilet?"}
+    ]
+  },
+  "new_york": {
+    "emergency_contacts": {
+      "police": "911",
+      "fire_ambulance": "911",
+      "medical_helpline": "311 (Non-emergency)"
+    },
+    "local_customs": [
+      "Tipping: Standard tipping is 18-20% in restaurants, $1-2 per drink at bars, and 15-20% for taxis.",
+      "Pedestrian pace: Walk quickly and pull over to the side if you need to look at maps/photos.",
+      "Subway swipe: Make sure you have a MetroCard or use contactless tap (OMNY) before entering.",
+      "Jaywalking: Extremely common, but cross carefully at crosswalks.",
+      "Tax: Sales tax (8.875%) is added at checkout, not shown on price tags."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Thanks"},
+      {"english": "Excuse me (passing by)", "local": "Excuse me / Comin' through"},
+      {"english": "Where is the subway?", "local": "Where's the subway station?"},
+      {"english": "How much?", "local": "How much is this?"}
+    ]
+  },
+  "bali": {
+    "emergency_contacts": {
+      "police": "110",
+      "fire_ambulance": "113 / 118",
+      "medical_helpline": "112 / +62 361 771801"
+    },
+    "local_customs": [
+      "Temple wear: Wear a sarong and sash when entering temples (usually rentable at entrance).",
+      "Right hand rules: Use your right hand for giving, receiving, or eating.",
+      "Offerings: Do not step on 'Canang Sari' (small palm-leaf baskets of flower offerings) on the street.",
+      "Bartering: Polite bargaining is common in local markets, but not in supermarkets or malls.",
+      "Drinking water: Tap water is unsafe. Only drink bottled or filtered water ('Bali Belly' protection)."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Matur suksma (Balinese) / Terima kasih (Indonesian)"},
+      {"english": "Excuse me", "local": "Permisi"},
+      {"english": "How much is this?", "local": "Berapa harganya?"},
+      {"english": "Good morning", "local": "Selamat pagi"}
+    ]
+  },
+  "sydney": {
+    "emergency_contacts": {
+      "police": "000",
+      "fire_ambulance": "000",
+      "medical_helpline": "1800 022 222"
+    },
+    "local_customs": [
+      "Sun protection: The Australian sun is intense. Use sunscreen (SPF 50+), hats, and sunglasses.",
+      "Tipping: Not expected, but round up the bill or tip 10% for exceptional service.",
+      "Beach safety: Swim only between the red and yellow flags. Obey lifeguards.",
+      "Greeting style: Casual 'G'day' or 'How's it going' is normal.",
+      "Strict borders: Do not bring food, seeds, or organic materials into Australia; biosecurity is strict."
+    ],
+    "useful_phrases": [
+      {"english": "Thank you", "local": "Thanks / Cheers"},
+      {"english": "Good morning", "local": "G'day / Morning"},
+      {"english": "Where is the bathroom?", "local": "Where are the toilets / loos?"},
+      {"english": "Friend", "local": "Mate"}
+    ]
+  }
+}

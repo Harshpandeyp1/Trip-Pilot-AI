@@ -1,0 +1,322 @@
+[
+  {
+    "id": "a_tok_1",
+    "city_id": "tokyo",
+    "name": "Senso-ji Temple",
+    "category": "Culture",
+    "ticket_cost": 0,
+    "opening_hours": "06:00 - 17:00",
+    "duration_hours": 2,
+    "description": "Tokyo's oldest and most iconic Buddhist temple, situated in historic Asakusa."
+  },
+  {
+    "id": "a_tok_2",
+    "city_id": "tokyo",
+    "name": "Meiji Jingu Shrine",
+    "category": "Culture",
+    "ticket_cost": 0,
+    "opening_hours": "05:00 - 18:00",
+    "duration_hours": 1.5,
+    "description": "A tranquil Shinto shrine dedicated to Emperor Meiji, nestled in a dense forest in Shibuya."
+  },
+  {
+    "id": "a_tok_3",
+    "city_id": "tokyo",
+    "name": "teamLab Planets TOKYO",
+    "category": "Adventure",
+    "ticket_cost": 25,
+    "opening_hours": "09:00 - 22:00",
+    "duration_hours": 3,
+    "description": "An immersive digital art museum where visitors walk through water and gardens."
+  },
+  {
+    "id": "a_tok_4",
+    "city_id": "tokyo",
+    "name": "Shibuya Crossing & Sky",
+    "category": "Shopping",
+    "ticket_cost": 15,
+    "opening_hours": "10:00 - 22:30",
+    "duration_hours": 2,
+    "description": "The world's busiest pedestrian crossing, and the panoramic observation deck overlooking it."
+  },
+  {
+    "id": "a_tok_5",
+    "city_id": "tokyo",
+    "name": "Shinjuku Gyoen National Garden",
+    "category": "Nature",
+    "ticket_cost": 4,
+    "opening_hours": "09:00 - 16:30",
+    "duration_hours": 2,
+    "description": "One of Tokyo's largest parks, blending English, French, and Japanese garden styles."
+  },
+  {
+    "id": "a_par_1",
+    "city_id": "paris",
+    "name": "Eiffel Tower",
+    "category": "Culture",
+    "ticket_cost": 28,
+    "opening_hours": "09:00 - 00:00",
+    "duration_hours": 2.5,
+    "description": "The iconic wrought-iron lattice tower on the Champ de Mars, offering vistas over Paris."
+  },
+  {
+    "id": "a_par_2",
+    "city_id": "paris",
+    "name": "Louvre Museum",
+    "category": "Culture",
+    "ticket_cost": 22,
+    "opening_hours": "09:00 - 18:00",
+    "duration_hours": 4,
+    "description": "The world's largest art museum, home to the Mona Lisa and Venus de Milo."
+  },
+  {
+    "id": "a_par_3",
+    "city_id": "paris",
+    "name": "Musée d'Orsay",
+    "category": "Culture",
+    "ticket_cost": 16,
+    "opening_hours": "09:30 - 18:00",
+    "duration_hours": 3,
+    "description": "Renowned museum in a grand former railway station, housing Impressionist masterworks."
+  },
+  {
+    "id": "a_par_4",
+    "city_id": "paris",
+    "name": "Montmartre & Sacré-Cœur",
+    "category": "Culture",
+    "ticket_cost": 0,
+    "opening_hours": "06:00 - 22:30",
+    "duration_hours": 2.5,
+    "description": "The historic artist district on a hill, topped by the beautiful white domes of Sacré-Cœur."
+  },
+  {
+    "id": "a_par_5",
+    "city_id": "paris",
+    "name": "Jardin du Luxembourg",
+    "category": "Nature",
+    "ticket_cost": 0,
+    "opening_hours": "07:30 - 21:00",
+    "duration_hours": 1.5,
+    "description": "Scenic 17th-century palace gardens featuring lawns, statues, and model sailboat ponds."
+  },
+  {
+    "id": "a_rom_1",
+    "city_id": "rome",
+    "name": "Colosseum & Roman Forum",
+    "category": "Culture",
+    "ticket_cost": 18,
+    "opening_hours": "08:30 - 19:00",
+    "duration_hours": 3.5,
+    "description": "The ultimate symbols of ancient Rome: the monumental gladiator amphitheater and civic ruins."
+  },
+  {
+    "id": "a_rom_2",
+    "city_id": "rome",
+    "name": "Vatican Museums & Sistine Chapel",
+    "category": "Culture",
+    "ticket_cost": 20,
+    "opening_hours": "09:00 - 18:00",
+    "duration_hours": 4,
+    "description": "Houses the immense art collection of the Popes, including Michelangelo's Sistine ceiling."
+  },
+  {
+    "id": "a_rom_3",
+    "city_id": "rome",
+    "name": "Trevi Fountain",
+    "category": "Culture",
+    "ticket_cost": 0,
+    "opening_hours": "24 Hours",
+    "duration_hours": 1,
+    "description": "A magnificent Baroque masterpiece. Toss a coin in to guarantee a return to Rome."
+  },
+  {
+    "id": "a_rom_4",
+    "city_id": "rome",
+    "name": "Pantheon",
+    "category": "Culture",
+    "ticket_cost": 5,
+    "opening_hours": "09:00 - 19:00",
+    "duration_hours": 1,
+    "description": "A remarkably preserved Roman temple from 125 AD, featuring a massive unsupported concrete dome."
+  },
+  {
+    "id": "a_rom_5",
+    "city_id": "rome",
+    "name": "Villa Borghese Gardens",
+    "category": "Nature",
+    "ticket_cost": 0,
+    "opening_hours": "07:00 - 20:00",
+    "duration_hours": 2,
+    "description": "A lush landscape park containing temples, museums, and a scenic boating lake."
+  },
+  {
+    "id": "a_lon_1",
+    "city_id": "london",
+    "name": "Tower of London & Tower Bridge",
+    "category": "Culture",
+    "ticket_cost": 33,
+    "opening_hours": "09:00 - 17:30",
+    "duration_hours": 3,
+    "description": "Historic castle, fortress, and prison, housing the Crown Jewels next to the famous bridge."
+  },
+  {
+    "id": "a_lon_2",
+    "city_id": "london",
+    "name": "British Museum",
+    "category": "Culture",
+    "ticket_cost": 0,
+    "opening_hours": "10:00 - 17:00",
+    "duration_hours": 3.5,
+    "description": "Documenting human history and culture, featuring the Rosetta Stone and Parthenon Sculptures."
+  },
+  {
+    "id": "a_lon_3",
+    "city_id": "london",
+    "name": "London Eye",
+    "category": "Culture",
+    "ticket_cost": 38,
+    "opening_hours": "10:00 - 20:30",
+    "duration_hours": 1.5,
+    "description": "The giant observation wheel on the South Bank, offering panoramic views of Westminster."
+  },
+  {
+    "id": "a_lon_4",
+    "city_id": "london",
+    "name": "Hyde Park & Kensington Palace",
+    "category": "Nature",
+    "ticket_cost": 0,
+    "opening_hours": "05:00 - 00:00",
+    "duration_hours": 2,
+    "description": "A massive Royal Park in central London, famous for its Serpentine lake and Speakers' Corner."
+  },
+  {
+    "id": "a_ny_1",
+    "city_id": "new_york",
+    "name": "Statue of Liberty & Ellis Island",
+    "category": "Culture",
+    "ticket_cost": 24,
+    "opening_hours": "08:30 - 16:00",
+    "duration_hours": 4,
+    "description": "The iconic symbol of freedom in NY Harbor, and the historic immigration portal."
+  },
+  {
+    "id": "a_ny_2",
+    "city_id": "new_york",
+    "name": "Empire State Building",
+    "category": "Culture",
+    "ticket_cost": 44,
+    "opening_hours": "09:00 - 00:00",
+    "duration_hours": 2,
+    "description": "Famous Art Deco tower offering stellar views of Manhattan from the 86th floor."
+  },
+  {
+    "id": "a_ny_3",
+    "city_id": "new_york",
+    "name": "Central Park",
+    "category": "Nature",
+    "ticket_cost": 0,
+    "opening_hours": "06:00 - 01:00",
+    "duration_hours": 3,
+    "description": "An expansive green retreat in the center of Manhattan, filled with lakes, trails, and lawns."
+  },
+  {
+    "id": "a_ny_4",
+    "city_id": "new_york",
+    "name": "Metropolitan Museum of Art",
+    "category": "Culture",
+    "ticket_cost": 30,
+    "opening_hours": "10:00 - 17:00",
+    "duration_hours": 4,
+    "description": "One of the world's greatest art galleries, housing works from ancient Egypt to modern times."
+  },
+  {
+    "id": "a_ny_5",
+    "city_id": "new_york",
+    "name": "Broadway Show",
+    "category": "Relaxation",
+    "ticket_cost": 85,
+    "opening_hours": "19:00 - 22:30",
+    "duration_hours": 3,
+    "description": "Experience a world-class theatrical performance in the famous Theater District."
+  },
+  {
+    "id": "a_bal_1",
+    "city_id": "bali",
+    "name": "Tegallalang Rice Terraces",
+    "category": "Nature",
+    "ticket_cost": 2,
+    "opening_hours": "08:00 - 18:00",
+    "duration_hours": 2,
+    "description": "Scenic valleys of terraced paddy fields, offering iconic vistas and swings."
+  },
+  {
+    "id": "a_bal_2",
+    "city_id": "bali",
+    "name": "Uluwatu Temple & Kecak Dance",
+    "category": "Culture",
+    "ticket_cost": 10,
+    "opening_hours": "09:00 - 19:00",
+    "duration_hours": 3,
+    "description": "A cliffside temple overlooking the ocean, hosting a sunset fire dance performance."
+  },
+  {
+    "id": "a_bal_3",
+    "city_id": "bali",
+    "name": "Nusa Penida Day Trip",
+    "category": "Adventure",
+    "ticket_cost": 45,
+    "opening_hours": "07:00 - 17:00",
+    "duration_hours": 8,
+    "description": "An offshore island tour featuring dramatic coastal cliffs, beaches, and manta rays."
+  },
+  {
+    "id": "a_bal_4",
+    "city_id": "bali",
+    "name": "Ubud Sacred Monkey Forest Sanctuary",
+    "category": "Nature",
+    "ticket_cost": 5,
+    "opening_hours": "09:00 - 18:00",
+    "duration_hours": 2,
+    "description": "A lush, shaded jungle reserve home to over 1000 wild Balinese long-tailed macaques."
+  },
+  {
+    "id": "a_syd_1",
+    "city_id": "sydney",
+    "name": "Sydney Opera House Tour",
+    "category": "Culture",
+    "ticket_cost": 30,
+    "opening_hours": "09:00 - 17:00",
+    "duration_hours": 1.5,
+    "description": "A guided inside tour of the world-famous UNESCO performing arts center."
+  },
+  {
+    "id": "a_syd_2",
+    "city_id": "sydney",
+    "name": "Taronga Zoo",
+    "category": "Adventure",
+    "ticket_cost": 35,
+    "opening_hours": "09:30 - 17:00",
+    "duration_hours": 4,
+    "description": "A harbor-front zoo hosting unique native Australian wildlife, accessible by ferry."
+  },
+  {
+    "id": "a_syd_3",
+    "city_id": "sydney",
+    "name": "Bondi to Coogee Coastal Walk",
+    "category": "Nature",
+    "ticket_cost": 0,
+    "opening_hours": "24 Hours",
+    "duration_hours": 3,
+    "description": "A gorgeous 6km cliffside path connecting Sydney's famous ocean beaches."
+  },
+  {
+    "id": "a_syd_4",
+    "city_id": "sydney",
+    "name": "Sydney Harbour Bridge Climb",
+    "category": "Adventure",
+    "ticket_cost": 150,
+    "opening_hours": "08:00 - 20:00",
+    "duration_hours": 3.5,
+    "description": "An adrenaline-fueled guided climb to the top of the iconic bridge for panoramic views."
+  }
+]
